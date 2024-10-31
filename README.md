@@ -1,5 +1,13 @@
 # SYN Flood Attack Using Metasploit
-An educational repository demonstrating a SYN flood DoS attack using Metasploit on a controlled network environment. This project provides step-by-step instructions to illustrate network vulnerabilities and strengthen cybersecurity awareness.
+**Aim:** To provide an educational demonstration of a SYN flood DoS attack using Metasploit in a controlled environment, offering users hands-on experience in identifying network vulnerabilities and understanding the impact of SYN floods on system resources.
+
+**Objectives:**
+● To explain the mechanics of SYN flood attacks and their effects on network resources.
+● To guide the use of Metasploit and nmap for vulnerability scanning and attack execution.
+● To demonstrate traffic analysis with Wireshark to identify SYN flood patterns.
+● To reinforce ethical hacking principles by demonstrating attacks in a secure,
+authorized setting.
+● To increase awareness of DoS attack defenses and mitigation strategies.
 
 # Requirements
 1. Victim Machine: A machine running Ubuntu Linux, configured as the target system for the attack.
@@ -126,7 +134,5 @@ This exercise has demonstrated how a SYN flood attack can disrupt a system’s r
 Remember: Always respect ethical boundaries and use this knowledge to improve network security, not to harm or disrupt others.
 
 #
-
-**Note:** *This demonstration should be immediately stopped after observation to prevent prolonged strain on the victim machine and network. Document findings and observations carefully and ensure all affected machines are properly restored to avoid any long-term effects.*
 
 **Legal Disclaimer:** *This guide is for educational purposes only and must be used within authorized, controlled environments. Unauthorized use of these methods on systems or networks without explicit, written consent from the rightful owner is illegal and may violate local and international laws. The authors disclaim all liability for any misuse that results in unauthorized access, damage, or disruption, and users assume full responsibility for compliance with applicable laws.*
