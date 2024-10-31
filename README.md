@@ -130,7 +130,7 @@ The SYN flood attack demonstration is complete. Ensure that you:
 
 This exercise has demonstrated how a SYN flood attack can disrupt a system’s resources, providing valuable insights into network defense and traffic analysis for mitigation strategies.
 
-Remember: Always respect ethical boundaries and use this knowledge to improve network security, not to harm or disrupt others.
+Remember: Always respect ethical boundaries and use this knowledge to improve cyber security, not to harm or disrupt others.
 
 #
 
