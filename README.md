@@ -2,12 +2,11 @@
 **Aim:** To provide an educational demonstration of a SYN flood DoS attack using Metasploit in a controlled environment, offering users hands-on experience in identifying network vulnerabilities and understanding the impact of SYN floods on system resources.
 
 **Objectives:**
-● To explain the mechanics of SYN flood attacks and their effects on network resources.
-● To guide the use of Metasploit and nmap for vulnerability scanning and attack execution.
-● To demonstrate traffic analysis with Wireshark to identify SYN flood patterns.
-● To reinforce ethical hacking principles by demonstrating attacks in a secure,
-authorized setting.
-● To increase awareness of DoS attack defenses and mitigation strategies.
+1. To explain the mechanics of SYN flood attacks and their effects on network resources.
+2. To guide the use of Metasploit and nmap for vulnerability scanning and attack execution.
+3. To demonstrate traffic analysis with Wireshark to identify SYN flood patterns.
+4. To reinforce ethical hacking principles by demonstrating attacks in a secure, authorized setting.
+5. To increase awareness of DoS attack defenses and mitigation strategies.
 
 # Requirements
 1. Victim Machine: A machine running Ubuntu Linux, configured as the target system for the attack.
